@@ -1,0 +1,7 @@
+# Project exclude paths
+/Framework/target/
+/HDFSCLIENTAPI/target/
+/Hello/target/
+/HelloFriend/target/
+/MapReduce/target/
+/Scala/target/
